@@ -1,6 +1,8 @@
 OpenResty 最佳实践
 =======
 
+> 本开源书 forked from [OpenResty 最佳实践](https://github.com/moonbingbing/openresty-best-practices)，作者为 [moonbingbing](https://github.com/moonbingbing)，欢迎大家 star 原作者的 [repo](https://github.com/moonbingbing/openresty-best-practices)，以便获得最新更新，谢谢！
+
 在 2012 年的时候，加入到奇虎 360 公司，为新的产品做技术选型。由于之前一直混迹在 Python 圈子里面，也接触过 Nginx C 模块的高性能开发，一直想找到一个兼备 Python 快速开发和 Nginx C 模块高性能的产品。看到 OpenResty 后，有发现新大陆的感觉。
 
 于是在新产品里面力推 OpenResty，团队里面几乎没人支持，经过几轮性能测试，虽然轻松击败所有的其他方案，但是其他开发人员并不愿意参与到基于 OpenResty 这个“陌生”框架的开发中来。于是我开始了一个人的 OpenResty 之旅，刚开始经历了各种技术挑战，庆幸有详细的文档，以及春哥和邮件列表里面热情的帮助，成了团队里面 bug 最少和几乎不用加班的同学。
